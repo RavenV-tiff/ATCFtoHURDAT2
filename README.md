@@ -1,0 +1,1 @@
+To use this script place in working directory. The script expects an input.txt file to contain the ATCF format data and will create an output.txt file with the converted HURDAT2 format best track data. If desired, modify the path of these input and output files.
